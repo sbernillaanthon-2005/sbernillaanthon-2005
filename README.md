@@ -263,8 +263,8 @@
 
   <br/><br/>
 
-  <!-- GIF FOOTER -->
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif" width="100%">
+  <!-- TECH FOOTER -->
+  <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp" width="100%">
 
   <!-- RAINBOW LINE BOT -->
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
