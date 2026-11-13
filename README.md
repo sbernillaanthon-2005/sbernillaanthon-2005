@@ -1,7 +1,10 @@
 <div align="center">
 
-  <!-- ==================== HEADER BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c16,40:0d1b2a,70:1b263b,100:00f2fe&height=250&section=header&text=ANTHONY%20SENMACHE&fontSize=48&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Creative%20Engineer&descAlignY=60&descSize=19&descColor=00f2fe&stroke=00f2fe&animation=twinkling" width="100%" alt="Anthony Senmache Banner" />
+  <!-- RAINBOW LINE TOP -->
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+  <!-- GIF HEADER -->
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif" width="100%">
 
   <!-- ==================== DYNAMIC TYPING SVG ==================== -->
   <a href="https://github.com/sbernillaanthon-2005">
@@ -260,7 +263,10 @@
 
   <br/><br/>
 
-  <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:1b263b,100:080c16&height=130&section=footer" width="100%" alt="Footer Wave" />
+  <!-- GIF FOOTER -->
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif" width="100%">
+
+  <!-- RAINBOW LINE BOT -->
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 </div>
