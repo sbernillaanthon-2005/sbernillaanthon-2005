@@ -8,7 +8,7 @@
 
   <!-- ==================== DYNAMIC TYPING SVG ==================== -->
   <a href="https://github.com/sbernillaanthon-2005">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&width=650&lines=%E2%96%B6+Hola%2C+soy+Anthony+Senmache+%F0%9F%91%8B;%E2%96%B6+Full+Stack+Software+Developer+%F0%9F%92%BB;%E2%96%B6+Especialista+en+React%2C+TypeScript+%26+Node.js+%E2%9A%A1;%E2%96%B6+Animaciones+Interactivas+de+Alto+Impacto+con+GSAP+%F0%9F%8E%A8;%E2%96%B6+Arquitecturas+Escalables+%26+Bases+de+Datos+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=900&color=00F2FE&center=true&vCenter=true&width=750&lines=%E2%96%B6+Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%F0%9F%92%BB;%E2%96%B6+Full+Stack+Software+Developer+%F0%9F%9A%80;%E2%96%B6+Frontend%3A+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+%F0%9F%8E%A8;%E2%96%B6+Backend%3A+Node.js+%E2%80%A2+NestJS+%E2%80%A2+Express+%E2%80%A2+Python+%E2%80%A2+Java+%E2%9A%A1;%E2%96%B6+Mobile%3A+React+Native+%E2%80%A2+Expo+Go+%F0%9F%93%B1;%E2%96%B6+BD%3A+PostgreSQL+%E2%80%A2+MySQL+%E2%80%A2+SQL+Server+%E2%80%A2+MongoDB+%E2%80%A2+Redis+%F0%9F%97%84%EF%B8%8F;%E2%96%B6+DevOps+%26+Cloud%3A+Docker+%E2%80%A2+Linux+%E2%80%A2+CI%2FCD+%F0%9F%90%B3;%E2%96%B6+Microservices+%E2%80%A2+WebSockets+%E2%80%A2+JWT+%E2%80%A2+OAuth+2.0+%F0%9F%94%90;%E2%96%B6+IA+%26+Ciberseguridad+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -60,16 +60,20 @@
  * Representación del Desarrollador
  * 
  * @author Anthony Jesús Senmache Bernilla
- * @role Full Stack Developer & Software Engineering Student
+ * @role Estudiante de Ingeniería de Sistemas | Full Stack Developer
  * @location Chiclayo, Lambayeque - Perú 🇵🇪
  * @university Universidad Señor de Sipán (USS)
  * 
- * @specialization Construcción de aplicaciones web de alto rendimiento, microservicios y UI interactiva.
- * @interests ["Frontend Architecture", "Distributed Systems", "GSAP Animations", "Cloud & DevOps"]
- * @currentLearning ["Advanced Microservices", "Three.js & WebGL", "CI/CD Pipelines"]
- * @philosophy "El buen código no solo funciona, es elegante, escalable y deleita al usuario."
+ * @frontend ["HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS", "Bootstrap", "jQuery", "AJAX", "GSAP"]
+ * @backend ["PHP", "Python", "Java", "C#", "Node.js", "NestJS", "Express.js", "REST APIs", "MVC"]
+ * @mobile ["React Native", "Expo Go"]
+ * @databases ["MySQL", "SQL Server", "PostgreSQL", "MongoDB", "Redis"]
+ * @devops ["Docker", "Git", "GitHub", "Linux", "CI/CD"]
+ * @tools ["Postman", "DBeaver", "VS Code", "Prisma", "TypeORM"]
+ * @architecture ["JWT", "OAuth 2.0", "WebSockets", "Microservices"]
+ * @passions ["Inteligencia Artificial", "Ciberseguridad", "Arquitecturas Escalables"]
  * 
- * @returns {Professional} Listo para crear soluciones tecnológicas innovadoras.
+ * @returns {Engineer} Preparado para construir tecnología de alto calibre.
  */
 ```
 
@@ -89,67 +93,114 @@
     <kbd>
       <kbd><b>💻 Lenguajes de Programación</b></kbd>
       <br/><br/>
-      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" />&nbsp;&nbsp;
-      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" />&nbsp;&nbsp;
-      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="Python" />&nbsp;&nbsp;
-      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" />&nbsp;&nbsp;
-      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" title="C#" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" title="HTML5" />&nbsp;&nbsp;
-      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" title="CSS3" />
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" title="CSS3" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="Python" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" title="Java" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" title="C#" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" title="PHP" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" />
     </kbd>
   </p>
 
-  <!-- Frontend & Animaciones -->
+  <!-- Frontend & UI/UX -->
   <p>
     <kbd>
-      <kbd><b>🎨 Frontend & Animaciones UI/UX</b></kbd>
+      <kbd><b>🎨 Frontend & UI/UX</b></kbd>
       <br/><br/>
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="React" />&nbsp;&nbsp;
-      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" title="Next.js" />&nbsp;&nbsp;
+      <img width="38px" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" title="Next.js" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" title="Tailwind CSS" />&nbsp;&nbsp;
-      <img width="38px" src="https://user-images.githubusercontent.com/25181517/183898674-7ca42816-a590-410e-973a-965780a03829.png" alt="gsap" title="GSAP GreenSock" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" title="Bootstrap" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" title="jQuery" />&nbsp;&nbsp;
+      <img width="38px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="ajax" title="AJAX" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" title="GSAP GreenSock" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="vite" title="Vite" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" title="Redux Toolkit" />
     </kbd>
   </p>
 
-  <!-- Backend & APIs -->
+  <!-- Backend, Frameworks & Arquitectura -->
   <p>
     <kbd>
-      <kbd><b>⚙️ Backend, Microservicios & APIs</b></kbd>
+      <kbd><b>⚙️ Backend, Frameworks & Arquitectura (MVC / REST)</b></kbd>
       <br/><br/>
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js" />&nbsp;&nbsp;
-      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" title="Express.js" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="nestjs" title="NestJS" />&nbsp;&nbsp;
+      <img width="38px" src="https://skillicons.dev/icons?i=express" alt="express" title="Express.js" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" title="PHP" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="Python" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" title="Java" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" title="C#" />&nbsp;&nbsp;
       <img width="38px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="RESTful APIs" />&nbsp;&nbsp;
-      <img width="38px" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="graphql" title="GraphQL" />&nbsp;&nbsp;
-      <img width="38px" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swagger" title="Swagger OpenAPI" />
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="mvc" title="Arquitectura MVC" />
     </kbd>
   </p>
 
-  <!-- Bases de Datos & Caché -->
+  <!-- Desarrollo Mobile -->
   <p>
     <kbd>
-      <kbd><b>🗄️ Bases de Datos & Almacenamiento</b></kbd>
+      <kbd><b>📱 Desarrollo Mobile</b></kbd>
       <br/><br/>
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactnative" title="React Native" />&nbsp;&nbsp;
+      <img width="38px" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" title="Expo Go" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" title="Android" />
+    </kbd>
+  </p>
+
+  <!-- Bases de Datos & ORMs -->
+  <p>
+    <kbd>
+      <kbd><b>🗄️ Bases de Datos & ORMs</b></kbd>
+      <br/><br/>
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" title="Microsoft SQL Server" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" title="PostgreSQL" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" title="MongoDB" />&nbsp;&nbsp;
-      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL" />&nbsp;&nbsp;
-      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" title="Redis" />
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" title="Redis" />&nbsp;&nbsp;
+      <img width="38px" src="https://skillicons.dev/icons?i=prisma" alt="prisma" title="Prisma ORM" />&nbsp;&nbsp;
+      <img width="38px" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" alt="typeorm" title="TypeORM" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" title="DBeaver" />
     </kbd>
   </p>
 
-  <!-- DevOps, Cloud & Productividad -->
+  <!-- DevOps, Cloud & CI/CD -->
   <p>
     <kbd>
-      <kbd><b>🚀 DevOps, Cloud & Herramientas de Entorno</b></kbd>
+      <kbd><b>🐳 DevOps, Cloud & CI/CD</b></kbd>
       <br/><br/>
-      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="Git" />&nbsp;&nbsp;
-      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" title="GitHub" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" title="Docker" />&nbsp;&nbsp;
-      <img width="38px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="github-actions" title="GitHub Actions" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="Git" />&nbsp;&nbsp;
+      <img width="38px" src="https://skillicons.dev/icons?i=github" alt="github" title="GitHub" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" title="Linux" />&nbsp;&nbsp;
+      <img width="38px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="github-actions" title="CI/CD & GitHub Actions" />
+    </kbd>
+  </p>
+
+  <!-- Herramientas & Entorno -->
+  <p>
+    <kbd>
+      <kbd><b>🛠️ Herramientas de Desarrollo</b></kbd>
+      <br/><br/>
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="VS Code" />&nbsp;&nbsp;
-      <img width="38px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" title="Postman" />&nbsp;&nbsp;
-      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" title="Linux" />
+      <img width="38px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" title="DBeaver" />
+    </kbd>
+  </p>
+
+  <!-- Seguridad, Protocolos & Arquitecturas Avanzadas -->
+  <p>
+    <kbd>
+      <kbd><b>🔐 Seguridad, Protocolos, IA & Microservicios</b></kbd>
+      <br/><br/>
+      <img width="38px" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="jwt" title="JWT (JSON Web Tokens)" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" alt="oauth" title="OAuth 2.0" />&nbsp;&nbsp;
+      <img width="38px" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websockets" title="WebSockets" />&nbsp;&nbsp;
+      <img width="38px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="microservices" title="Microservicios" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="ai" title="Inteligencia Artificial" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" alt="cybersecurity" title="Ciberseguridad" />
     </kbd>
   </p>
 
