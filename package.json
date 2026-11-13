@@ -1,0 +1,22 @@
+{
+  "name": "sbernillaanthon-2005",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Anthony Senmache - GitHub Profile and Interactive GSAP Portfolio",
+  "scripts": {
+    "dev": "npm run dev --prefix portfolio",
+    "build": "npm run build --prefix portfolio",
+    "preview": "npm run preview --prefix portfolio"
+  },
+  "keywords": [
+    "portfolio",
+    "react",
+    "gsap",
+    "tailwind",
+    "developer",
+    "github-profile"
+  ],
+  "author": "Anthony Senmache <sbernillaanthon@uss.edu.pe>",
+  "license": "MIT"
+}
+
