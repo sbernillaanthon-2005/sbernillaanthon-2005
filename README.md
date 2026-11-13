@@ -173,7 +173,7 @@
       <br/><br/>
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" title="Docker" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="Git" />&nbsp;&nbsp;
-      <img width="42px" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif?v=3" alt="github" title="GitHub" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.simpleicons.org/github/white" alt="github" title="GitHub" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" title="Linux" />&nbsp;&nbsp;
       <img width="38px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="github-actions" title="CI/CD & GitHub Actions" />
     </kbd>
@@ -315,6 +315,11 @@
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
   </a>
+
+  <br/><br/>
+
+  <!-- OCTOCAT ANIMATION -->
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="115px" alt="Pixel Octocat" />
 
   <br/><br/>
 
