@@ -88,10 +88,12 @@ export default function App() {
   // GSAP Typewriter & Entrance Animations
   useEffect(() => {
     const roles = [
-      'Full Stack Developer 💻',
+      'Hola, soy Jesús Senmache 👋',
+      'Estudiante de Ingeniería de Sistemas 💻',
+      'Full Stack Developer 🚀',
       'React & TypeScript Specialist ⚡',
       'UI/UX & GSAP Animator 🎨',
-      'Node.js & Backend Architect 🚀'
+      'Node.js & Backend Architect ⚙️'
     ];
     let roleIndex = 0;
 
