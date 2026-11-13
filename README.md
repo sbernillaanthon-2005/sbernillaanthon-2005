@@ -233,7 +233,7 @@
 
 <div align="center">
 
-  > *"Cualquier idiota puede escribir código que un ordenador entienda. Los buenos programadores escriben código que los humanos pueden entender."*  
+  > *"Cualquier tonto puede escribir código que una computadora pueda entender. Los buenos programadores escriben código que los humanos puedan entender."*  
   > — **Martin Fowler**
 
 </div>
